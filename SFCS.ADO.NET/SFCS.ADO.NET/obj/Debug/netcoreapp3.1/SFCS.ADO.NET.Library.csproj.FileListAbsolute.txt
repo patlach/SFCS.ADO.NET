@@ -1,0 +1,10 @@
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\bin\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.deps.json
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\bin\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.dll
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\bin\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.pdb
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.csproj.AssemblyReference.cache
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.AssemblyInfoInputs.cache
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.AssemblyInfo.cs
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.csproj.CoreCompileInputs.cache
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.dll
+C:\Users\epolushin\source\repos\SFCSADO.NET\SFCS.ADO.NET\SFCS.ADO.NET\obj\Debug\netcoreapp3.1\SFCS.ADO.NET.Library.pdb
